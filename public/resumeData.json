@@ -1,0 +1,89 @@
+{
+  "main": {
+    "name":"Charlie Taylor",
+    "occupation":"Software Engineer",
+    "description":"I like learning things, and believe the best way to learn is to build",
+    "image":"profilepic.jpg",
+    "bio":"I'm an energetic team player with a deep hunger to design and build complex systems that make a strong and decisive impact, with 2+ years contributing to a diverse set of teams. My passion is enabling collaboration between cognition, software, and data to make tangible impacts in exciting problem domains.",
+    "contactmessage":"Contact me in the following physical and virtual locations",
+    "email": "dev.cbstaylor@gmail.com",
+    "phone": "650-398-6577",
+    "address":{
+      "street":"",
+      "city":"Bay Area",
+      "state":"California",
+      "zip": "94010"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1KXq6JrNDqBIybrWrYWkGGxWl4BgUr4gz/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/~ct/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/charlie-taylor",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I like keeping things simple, these are some of the tools I use to do so",
+    "education":[
+      {
+        "school":"Western University",
+        "degree":"B.Eng Computer Engineering",
+        "graduated":"April 2019",
+        "description":""
+      },
+      {
+        "school":"Western University",
+        "degree":"B.Sc Applied Mathematics",
+        "graduated":"April 2019",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Equinix",
+        "title":"ML Engineer",
+        "years":"October 2019 - Present",
+        "description":""
+      },
+      {
+        "company":"Entefy",
+        "title":"ML Engineer",
+        "years":"May 2018 - October 2019",
+        "description":""
+      },
+      {
+        "company":"Equinix",
+        "title":"Product Software Intern",
+        "years":"May 2017 - August 2017",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python"
+      },
+      {
+        "name":"Git"
+      },
+      {
+        "name":"Docker"
+      },
+      {
+        "name":"GCP"
+      },
+      {
+        "name":"AWS"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": []
+  }
+}
